@@ -1,4 +1,4 @@
-import { ListNode } from "../utils/data-types";
+import { ListNode } from "../../utils/data-types";
 
 export const addTwoNumbers = (
   l1: ListNode | null,
