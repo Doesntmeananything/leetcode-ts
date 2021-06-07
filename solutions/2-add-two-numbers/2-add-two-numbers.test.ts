@@ -1,4 +1,4 @@
-import { ListNode } from "../utils/data-types";
+import { ListNode } from "../../utils/data-types";
 import { addTwoNumbers } from "./2-add-two-numbers";
 
 describe("addTwoNumbers adds digits from two linked lists in reverse order and returns the sum as a linked list", () => {
